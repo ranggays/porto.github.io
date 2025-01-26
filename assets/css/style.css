@@ -38,6 +38,10 @@ body{
     
 }
 
+.get1{
+    cursor: pointer;
+}
+
 
 @media only screen and (min-width: 1500px) {
 
